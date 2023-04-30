@@ -1,0 +1,12 @@
+{
+  "prefix": "!",
+  "token": "MTEwMTk1MDIwMzMxOTMwNDM4Mw.Gslzom.zndnbSXvNnk8YElZbg-t_4-cuD8zBHbtg9BYT8",
+  "owners": ["1003618812836446281"],
+  "footer": "🔞・The Bikini Bot",
+
+  "msg": {
+    "nsfwWarn": "This command can only be used in a **NSFW** channel 🔞",
+    "loading": "Loading...",
+    "imageNotLoading": "The image is not displayed? Click here"
+  }
+}
